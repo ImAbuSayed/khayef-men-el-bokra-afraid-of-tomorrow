@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/khayef-men-el-bokra-afraid-of-tomorrow/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Music Rights & Licensing for Khayef Men El Bokra – Afraid of tomorrow.](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License Abu Sayed's Khayef Men El Bokra – Afraid of tomorrow.](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
