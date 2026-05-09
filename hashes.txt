@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Khayef Men El Bokra – Afraid of tomorrow.
+
+This log tracks the cryptographic history and versioning for the song **Khayef Men El Bokra – Afraid of tomorrow.** (khayef-men-el-bokra-afraid-of-tomorrow).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T09:58:18.070594 | `v1` | `68964baeffe9a8c9c63207c045c89d6eb04e4be9779b37cbb5faddd77ec9aae9` | `eb1629af35f7e2b1b022c770f55f5840957358a1f7f8a911de8bce2ffe9bd854` | `2026-05-09_khayef-men-el-bokra-afraid-of-tomorrow-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
